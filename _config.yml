@@ -41,13 +41,12 @@ google-analytics: UA-163806439-1
 disqus-shortname: thedevslot
 
 # Name of the Author
-author-name: PEPE POTTER
+author-name: PEPOT
 # URL for the Image of the Author
 author-image: [url=https://ibb.co/zn4CbM1][img]https://i.ibb.co/zn4CbM1/b2840837-f655-49ce-bccd-3dc103818f36.png[/img][/url]
 # 60 Words About the Author
-author-about: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse eget pharetra velit, dapibus bibendum ex. Maecenas vitae laoreet mauris, ac luctus metus. Aliquam luctus velit vel ipsum feugiat, vel venenatis mauris hendrerit. Sed at vulputate sapien, eget vehicula dolor. Aliquam volutpat pulvinar neque sit amet sodales.
-# URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
-author-url: https://github.com/thedevslot
+author-about: Pepe Potter(PEPOT) is a magical token that brings the enchanting world of Harry Potter to the blockchain. As a community-driven token, Pepe Potter aims to unite fans of the beloved wizarding series, providing them with a unique opportunity to embark on a thrilling journey in the decentralized realm.
+author-url: https://github.com/pepepotter
 
 # SASS
 sass:
